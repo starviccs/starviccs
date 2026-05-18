@@ -1,11 +1,11 @@
 // <!-- BANNER -->
 <div align="center">
-  <img src="starviccs (vitória ☆ｏ(＞＜；)○) " width="100%" alt="banner"/>
+ <img src="https://raw.githubusercontent.com/ladymnria/ladymnria/main/bannerjpg.jpg" width="100%" alt="[banner](https://pin.it/5ylz3Fiz7)"/>
 </div>
 
 // <!-- TITLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Fear+the+old+blood.;Seek+Paleblood+to+transcend+the+Hunt." alt="Typing SVG"/> //NOME
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Fear+the+old+blood.;Seek+Paleblood+to+transcend+the+Hunt." alt="Vitória Bravo"/> //NOME
 </div>
 
 <br/>
@@ -22,8 +22,7 @@
 
 <div align="center">
 
-![Profile Views](blob:https://br.pinterest.com/e5078041-ea9a-438b-b696-35440e297d34) ///PINK FLUFFY UNICORNS 
-
+![Profile Views](https://komarev.com/ghpvc/?username=ladymnria&style=flat-square&color=c9a84c&label=PROFILE+VIEWS)
 </div>
 
 ---
@@ -108,7 +107,7 @@ I also have practical experience with HTML, CSS, JavaScript, React, Node.js, PYT
 
 <div align="center">
 
-[![SEU_REPO](Repositories )
+[![SEU_REPO](https://github-readme-stats.vercel.app/api/pin/?username=ladymnria&repo=SEU_REPO&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/starviccs)
 
 </div>
 
