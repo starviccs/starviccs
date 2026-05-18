@@ -21,9 +21,7 @@
 <br/>
 
 <div align="center">
-
-![Profile Views](blob:https://br.pinterest.com/e5078041-ea9a-438b-b696-35440e297d34) ///PINK FLUFFY UNICORNS 
-
+<img src="https://pin.it/2fZq1zyXM" width="300px">
 </div>
 
 ---
