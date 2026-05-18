@@ -13,8 +13,8 @@
 // <!-- CONTACT -->
 <div align="center">
 
-[![LinkedIn](https://www.linkedin.com/in/vitória-bravo-276098310?utm_source=share_via&utm_content=profile&utm_medium=member_android
-)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitória-bravo-276098310?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
 
 </div>
 
