@@ -1,6 +1,6 @@
 
 <div align="center">
- <img src="https://i1-c.pinimg.com/webp85/1200x/55/e8/46/55e846902cadd077855dc86cc9e49de9.webp" width="100%" alt="banner"/>
+ <img src="https://i.pinimg.com/736x/de/c1/c3/dec1c39d769e357c3ff95acd2478632c.jpg" width="100%" alt="banner"/>
 </div>
 
 
@@ -101,13 +101,6 @@ I also have practical experience with HTML, CSS, JavaScript, React, Node.js, PYT
 | ◈ | Internet das Coisas | ✅ Complete |
 | ◈ | N.E.M SESI | ✅ Complete |
 
----
-
-## 🗡️ Featured Projects
-
-<div align="center">
-
-[![SEU_REPO](https://github-readme-stats.vercel.app/api/pin/?username=ladymnria&repo=SEU_REPO&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/starviccs)
 
 </div>
 
@@ -115,6 +108,10 @@ I also have practical experience with HTML, CSS, JavaScript, React, Node.js, PYT
 
 <div align="center">
 
-*† Seek Paleblood to transcend the Hunt †*
+*⡤⠒⢤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡤⠒⢤
+⢣⡀⠀⠉⠲⢤⣀⡀⠀⠀⠀⠀⠀⠀⢀⣀⡤⠖⠉⠀⢀⡜
+⢸⡉⠒⠄⠀⠀⠀⢉⡙⢢⠀⠀⡔⢋⡉⠀⠀⠀⠠⠒⢉⡇
+⠀⠉⢖⠒⠀⠀⠀⣇⠀⣸⠀⠀⣇⠀⣸⠀⠀⠀⠒⡲⠉⠀
+⠀⠀⠀⠉⠙⠫⠤⠚⠉⠀⠀⠀⠀⠉⠓⠤⠝⠋⠉*
 
 </div>
