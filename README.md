@@ -14,14 +14,16 @@
 <div align="center">
 
 [![LinkedIn](https://www.linkedin.com/in/vitória-bravo-276098310?utm_source=share_via&utm_content=profile&utm_medium=member_android
-) //MEU LINKEDIN
+)
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://pin.it/2fZq1zyXM" width="300px">
+
+![Profile Views](blob:https://br.pinterest.com/e5078041-ea9a-438b-b696-35440e297d34) ///PINK FLUFFY UNICORNS 
+
 </div>
 
 ---
