@@ -1,6 +1,6 @@
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/ladymnria/ladymnria/main/bannerjpg.jpg" width="100%" alt="(https://pin.it/5ylz3Fiz7)"/>
+ <img src="https://i1-c.pinimg.com/webp85/1200x/55/e8/46/55e846902cadd077855dc86cc9e49de9.webp" width="100%" alt="banner"/>
 </div>
 
 
